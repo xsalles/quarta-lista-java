@@ -11,14 +11,9 @@ public class exB_Pedro {
             A[i] = sc.nextInt();
         }
 
-        System.out.println("\n" + B[0] * 2);
-        System.out.println("\n" + B[1] * 2);
-        System.out.println("\n" + B[2] * 2);
-        System.out.println("\n" + B[3] * 2);
-        System.out.println("\n" + B[4] * 2);
-        System.out.println("\n" + B[5] * 2);
-        System.out.println("\n" + B[6] * 2);
-        System.out.println("\n" + B[7] * 2);
+        for (int i = 0; i < 8; i++) {
+            System.out.println(B[i] * 2);
+        }
 
         sc.close();
     }
