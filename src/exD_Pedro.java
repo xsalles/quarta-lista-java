@@ -19,5 +19,6 @@ public class exD_Pedro {
             
         }
 
+        sc.close();
     }
 }
