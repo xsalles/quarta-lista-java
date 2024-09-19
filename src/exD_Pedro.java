@@ -11,7 +11,6 @@ public class exD_Pedro {
             A[i] = sc.nextInt();
 
             B[i] = A[i] * A[i];
-
         }
         
         for (int i = 0; i < 15; i++) {
