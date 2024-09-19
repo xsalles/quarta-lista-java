@@ -13,5 +13,7 @@ public class exA_Pedro {
         }
 
         System.out.println(Arrays.toString(names));
+
+        sc.close();
     }
 }
