@@ -12,7 +12,7 @@ public class exB_Pedro {
         }
 
         for (int i = 0; i < 8; i++) {
-            System.out.println(B[i] * 2);
+            System.out.println(B[i] * 3);
         }
 
         sc.close();
